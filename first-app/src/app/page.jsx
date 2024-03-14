@@ -5,7 +5,7 @@ const Home = () => {
       <hr></hr>
       <h1>Home Page</h1>
       <a href="/account">Account</a>
-    </div>    
+    </div>
   );
 }
 

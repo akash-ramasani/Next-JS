@@ -1,7 +1,7 @@
 const Account = () => {
     return (
         <div>
-            <p>Account Page</p>
+            <h1>Account Page</h1>
             <a href="/account/profile">Profile Page</a>
         </div>
     );
