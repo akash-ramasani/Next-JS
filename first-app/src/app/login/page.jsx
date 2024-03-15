@@ -1,9 +1,16 @@
+import ButtonComponent from "../../components/auth/ButtonComponent";
+
+export const metadata = {
+    title: "Login"
+}
+
 const Login = () => {
     return (
         <div>
             <h1>Login Page</h1>
-            <a href="/forgot-password">Forgot Password?</a>
+            <a href="/reset-password">Forgot Password?</a>
             <p>Don't have an account? <a href="/signup">Register Here</a></p>
+            <ButtonComponent text="Login"/>
         </div>
     );
 }

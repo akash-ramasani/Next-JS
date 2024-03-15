@@ -1,3 +1,7 @@
+export const metadata = {
+    title: "Reset Password"
+}
+
 const ForgotPassword = () => {
     return (
         <div>

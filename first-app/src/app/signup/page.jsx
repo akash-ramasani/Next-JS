@@ -1,3 +1,6 @@
+export const metadata = {
+    title: "Signup"
+}
 const Signup = () => {
     return (
         <div>

@@ -1,3 +1,8 @@
+export const metadata = {
+  title: {
+    absolute: "MaxiBreak"
+  }
+}
 const Home = () => {
   return (
     <div>
